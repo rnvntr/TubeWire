@@ -9,7 +9,7 @@ from datetime import datetime, timedelta, timezone
 # TubeWire Script Metadata
 # ----------------------------------
 SCRIPT_NAME = "TubeWire"
-AUTHOR_NAME = "rnvntr
+AUTHOR_NAME = "rnvntr"
 VERSION = "1.0.0"
 
 # ----------------------------------
